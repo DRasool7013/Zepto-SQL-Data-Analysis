@@ -13,9 +13,9 @@ A PostgreSQL portfolio project exploring Zepto product pricing, discounts, stock
 Zepto-SQL-Data-Analysis/
 ├── README.md
 ├── sql/
-│   ├── 00_create_zepto_table.sql
 │   └── zepto_business_analysis.sql
 ├── data/
+├   ├── Readme.md
 │   └── zepto_v1.csv
 └── screenshots/
     └── (captured PostgreSQL query and output screenshots)
